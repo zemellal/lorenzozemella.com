@@ -9,7 +9,7 @@ tags: index
 
 <header>
 
-# {{title}}
+<h1><a href="/" class="text-inherit no-underline">{{ title }}</a></h1>
 
 <p class="text-stone-500">{{subtitle}}</p>
 

@@ -1,7 +1,8 @@
 ---
 title: Helloworld
 date: 2023-04-20
-author: Lorenzo Zemella
+# author: Lorenzo Zemella
+description: dummy post helloworld
 tags:
   - Deno
   - Static site generators

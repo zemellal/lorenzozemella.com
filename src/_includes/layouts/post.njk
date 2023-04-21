@@ -5,13 +5,12 @@ layout: layouts/base.njk
 <main>
   <article>
     <header class="pb-12">
-      <h1 class="pb-6">
+      <h1 class="">
         <a href="/" class="text-inherit no-underline">{{ title }}</a>
       </h1>
-      <h3>
+      <p class="text-stone-500">
         <time>{{ date | date('yyyy-MM-dd') }}</time>
-      </h3>
-      <p>By {{ author }}</p>
+      </p>
     </header>
     {{ content | safe }}
   </article>
