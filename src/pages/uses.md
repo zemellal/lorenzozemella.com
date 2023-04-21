@@ -32,11 +32,10 @@ _Anker USB C Charger 40W, 521 (Nano Pro)_ is a compact 2 USB-C port charger that
 
 _1Password_ has been my password manager since 2015. I have a family plan and use it for more than just logins, i.e. passports, drivers license, bank accounts, and other secure notes. It is much easier to find your sensitive personal information when it's in one secure place. 
 
-_Obsidian_ is slowly replacing the Apple Notes app for personal and work notes. I love the simplicity of Markdown with no vendor tie in at all. Everything is saved as a `.md` file (pure text). 
-
-_VSCode_ is my main editor. Loads fast and has plenty of plugins. 
+_Obsidian_ replaced Apple Notes app for personal and work notes. I love the simplicity of Markdown with no vendor tie in at all. Everything is saved as a `.md` file (pure text). 
 
 _Brave_ is my main browser. Feels faster than Chrome, especially with the built-in ad blocker. I'm all for supporting websites but most ads are intense resource hogs.  I also use Safari (has the smoothest scrolling), and Chrome when using anything Google. 
 
+_VSCode_ is my main editor. Loads fast and has plenty of plugins. 
 
 </section>
