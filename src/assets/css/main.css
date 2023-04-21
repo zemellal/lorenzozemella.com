@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -16,10 +17,10 @@
         @apply py-4;
     }
     h1 {
-        @apply text-3xl;
+        @apply text-4xl;
     }
     h2 {
-        @apply text-xl font-medium
+        @apply text-xl font-semibold
     }
     h3 {
         @apply text-lg

@@ -13,7 +13,7 @@ site.use(
     options: {
       theme: {
         fontFamily: {
-          sans: ["Graphik", "sans-serif"],
+          sans: ["Nunito", "sans-serif"],
           serif: ["Merriweather", "serif"],
         },
       },

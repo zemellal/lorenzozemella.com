@@ -2,7 +2,7 @@
 layout: layouts/homepage.njk
 url: /
 title: Lorenzo Zemella
-subtitle: tech - code - entrepreneur - cars - batteries - guitar
+subtitle: tech - code - entrepreneur - batteries - cars - guitar
 description: Lorenzo Zemella's personal website.
 tags: index
 ---
@@ -17,16 +17,14 @@ tags: index
 
 <section>
 
-Coming soon... 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem donec massa sapien faucibus et molestie ac feugiat sed. Urna molestie at elementum eu facilisis sed odio morbi quis. Iaculis urna id volutpat lacus laoreet non curabitur gravida arcu. Interdum velit laoreet id donec ultrices tincidunt. 
+Super minimalistic personal landing page. 
 
 </section><section>
 
 ## My Posts
 
 <ul class="pt-4">
-{% for post in search.pages("type=post") %}
+{% for post in search.pages("type=post", "date=desc") %}
   <li>
       <a href="{{post.data.url}}">{{ post.data.title }}</a>
   </li>
