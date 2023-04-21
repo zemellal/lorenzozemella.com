@@ -1,0 +1,11 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Lorenzo Zemella",
+  "email": "lorenzo@lorenzozemella.com",
+  "x": {
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/lorenzozemella/"
+    }
+  }
+}

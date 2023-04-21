@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply bg-stone-100;
+    }
+    /* body {
+        @apply grid grid-rows-1 justify-items-center;
+    } */
+    main {
+        @apply mx-auto max-w-screen-md pt-12 px-6 pb-24 grid grid-cols-1 gap-4;
+    }
+    section {
+        @apply py-4;
+    }
+    h1 {
+        @apply text-3xl;
+    }
+    h2 {
+        @apply text-xl font-medium
+    }
+    h3 {
+        @apply text-lg
+    }
+    p {
+        @apply py-2;
+    }
+    a {
+        @apply hover:text-stone-600 text-stone-500 underline decoration-stone-300 hover:decoration-inherit;
+    }
+}

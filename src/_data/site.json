@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.lorenzozemella.com/",
+  "name": "Lorenzo Zemella's personal website",
+  "description": "Lorenzo Zemella's personal website description",
+  "author": {
+    "@type": "Person",
+    "@id": "",
+    "name": "Lorenzo Zemella",
+    "url": ""
+  },
+  "x": {
+    "domain": "lorenzozemella.com",
+    "locale": "en",
+    "direction": "ltr"
+  }
+}
