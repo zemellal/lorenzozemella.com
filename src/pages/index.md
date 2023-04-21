@@ -2,7 +2,7 @@
 layout: layouts/homepage.njk
 url: /
 title: Lorenzo Zemella
-subtitle: tech - code - entrepreneur - batteries - cars - guitar
+subtitle: tech - code - entrepreneur - batteries - cars - guitar - watches
 description: Lorenzo Zemella's personal website.
 tags: index
 ---
@@ -17,11 +17,11 @@ tags: index
 
 <section>
 
-Super minimalistic personal landing page. 
+My minimalistic landing page. 
 
 </section><section>
 
-## My Posts
+## Posts
 
 <ul class="pt-4">
 {% for post in search.pages("type=post", "date=desc") %}
@@ -33,11 +33,13 @@ Super minimalistic personal landing page.
 
 </section><section>
 
-## Writing
+## About
 
-Coming soon... 
+My goal with this site is to keep it timeless and very lightweight. I write the content in Markdown, commit the changes to the git repo, which is statically built by [Lume](https://lume.land/) + [Deno](https://deno.land/), and deployed globally with [Cloudflare Pages](https://pages.cloudflare.com/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My [uses](/uses). 
+
+More coming soon... 
 
 </section><section>
 
