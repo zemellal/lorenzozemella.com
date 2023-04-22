@@ -2,7 +2,7 @@
 layout: layouts/homepage.njk
 url: /
 title: Lorenzo Zemella
-subtitle: tech - code - batteries - cars - guitar - watches - coffee
+subtitle: Software developer, entrepreneur
 description: Lorenzo Zemella's personal website.
 tags: index
 ---
@@ -35,9 +35,9 @@ My minimalistic landing page.
 
 ## About
 
-My goal with this site is to keep it timeless and very lightweight. I write the content in Markdown, commit the changes to the git repo, which is statically built by [Lume](https://lume.land/) + [Deno](https://deno.land/), and deployed globally with [Cloudflare Pages](https://pages.cloudflare.com/). 
+My goal with this site is to keep it timeless and very lightweight. I write the content in Markdown, and commit to the git repo where it is statically built by [Lume](https://lume.land/) + [Deno](https://deno.land/) and globally deployed with [Cloudflare Pages](https://pages.cloudflare.com/). 
 
-My [uses](/uses/).
+My [uses](/uses/). Other interests and hobbies of mine are photography, automobiles, playing guitar, watches, and drinking lots of coffee. 
 
 Some useful facts and [references](/references/). Hopefully they are also useful to you. 
 
