@@ -11,7 +11,7 @@ tags: index
 
 <h1><a href="/" class="text-inherit no-underline">{{ title }}</a></h1>
 
-<p class="text-stone-500">{{subtitle}}</p>
+<p class="subtitle">{{subtitle}}</p>
 
 </header>
 
@@ -35,11 +35,11 @@ My minimalistic landing page.
 
 ## About
 
-My goal with this site is to keep it timeless and very lightweight. I write the content in Markdown, and commit to the git repo where it is statically built by [Lume](https://lume.land/) + [Deno](https://deno.land/) and globally deployed with [Cloudflare Pages](https://pages.cloudflare.com/). 
+My goal with [this site](/about/) is to keep it timeless and very lightweight. I want to keep it current without putting in too much work, so I simply write content in Markdown, and automatically export the static files and deploy globally. 
 
-My [uses](/uses/). Other interests and hobbies of mine are photography, automobiles, playing guitar, watches, and drinking lots of coffee. 
+My [uses](/uses/). Other interests and hobbies of mine are [photography](/photography/), automobiles, playing [guitar](guitar), watches, and drinking lots of coffee. 
 
-Some useful facts and [references](/references/). Hopefully they are also useful to you. 
+<!-- Some useful facts and [references](/references/). Hopefully they are also useful to you.  -->
 
 More coming soon ... 
 

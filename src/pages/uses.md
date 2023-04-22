@@ -18,7 +18,7 @@ The tools I use pretty much every day and would be hard to live without.
 
 ## Hardware
 
-_MacBook Pro 14" 32GB_ is my main computer. It's incredibly powerful especially with its low power requirements. I absolutely love the display - it is extremely sharp, with high color accuracy, and the variable 120Hz refresh is buttery smooth. Great feeling keyboard and trackpad, and more than enough connectivity to leave behind annoying hubs. Easy to travel with as it is a nice balance between the Air and the 16" MBP. At a desk, I prefer having a monitor for extended views. 
+_MacBook Pro 14" 32GB_ is my main computer. It's incredibly powerful especially with the low power requirements of the M1 Pro chip. Sure, other laptops are _on paper_ "about as quick", but they require noisy fans and constant power to use that performance. I absolutely love the display - it is extremely sharp with high color accuracy, and the variable 120Hz refresh is buttery smooth. Great feeling keyboard and trackpad, and more than enough connectivity to leave behind annoying hubs. Easy to travel with as it is a nice balance between the Air and the 16" MBP. At a desk, I prefer having a monitor for extended views. 
 
 _iPhone 12 Pro_ still has enough battery life and the performance still feels cutting edge. Waiting for the 15 with the 3nm chip. Also waiting for more global carriers to fully adopt e-sim tech.
 
