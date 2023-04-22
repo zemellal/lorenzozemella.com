@@ -1,4 +1,5 @@
 import lume from "lume/mod.ts";
+import sitemap from "lume/plugins/sitemap.ts";
 import date from "lume/plugins/date.ts";
 import tailwindcss from "lume/plugins/tailwindcss.ts";
 import postcss from "lume/plugins/postcss.ts";
@@ -22,6 +23,7 @@ site.use(
 );
 site.use(postcss());
 site.use(date());
+site.use(sitemap());
 
 site.copy("assets/fonts");
 

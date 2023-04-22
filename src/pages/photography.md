@@ -3,6 +3,7 @@ url: /photography/
 title: Photography
 subtitle: My photog gear
 description: Photography gear I use and collect
+last_modified_at: 2023-04-21
 tags:
     - photography
     - photo

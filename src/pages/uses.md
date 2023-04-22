@@ -3,6 +3,7 @@ url: /uses/
 title: Uses
 subtitle: My tech
 description: Software and hardware that I use daily
+last_modified_at: 2023-04-21
 tags:
     - uses
     - tech
