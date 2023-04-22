@@ -4,7 +4,6 @@ title: References
 subtitle: Links to useful stuff
 description: Links and references that I have handy
 tags:
-    - page
     - references
 ---
 
