@@ -8,7 +8,7 @@
     @apply bg-stone-100 dark:text-stone-100 dark:bg-stone-900;
   }
   main {
-    @apply mx-auto max-w-screen-md pt-12 px-6 pb-24 grid grid-cols-1 gap-4;
+    @apply mx-auto max-w-screen-md pt-12 px-6 mb-24 grid grid-cols-1 gap-4;
   }
   section {
     @apply py-4;
@@ -28,10 +28,16 @@
   a {
     @apply hover:text-stone-600 dark:hover:text-stone-300 text-stone-500 dark:text-stone-400 underline decoration-stone-300 dark:decoration-stone-700 hover:decoration-inherit;
   }
+  ul {
+    @apply py-2 space-y-2;
+  }
 }
 
 @layer components {
   .subtitle {
     @apply text-stone-500 dark:text-stone-400;
+  }
+  .subtle {
+    @apply text-stone-400 dark:text-stone-500;
   }
 }

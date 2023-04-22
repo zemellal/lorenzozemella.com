@@ -9,7 +9,7 @@ tags:
     - hobby
 ---
 
-Photography equipment I use and have collected over the years. 
+Photography equipment I use and have collected over the years. I'm working on self-hosting photo albums, but for now you can see some work on my [Flickr](https://www.flickr.com/people/lzemella/). 
 
 <section>
 

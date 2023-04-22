@@ -14,9 +14,9 @@ Guitars and amps I play with.
 
 ## Electrics
 
-_PRS Silver Sky Rosewood_ is an S-style guitar that caught my attention for a while. I love the balance of vintage feel with modern build and reliability. It's basically a 60s Strat with perfect stability, intonation, and playability. It was perfect right out-of-the-box. I bought this Tungsten model as a used demo right when Covid started, and before prices shot up when everyone decided to learn guitar. 
+_PRS Silver Sky Rosewood_ is an S-style guitar that caught my attention for a while. I love the balance of vintage feel with modern build and reliability. It's basically a 60s Strat with perfect stability, intonation, and playability. It was perfect right out-of-the-box. I bought this Tungsten model as a used demo right when Covid started before prices shot up and everyone decided to learn guitar. 
 
-_EVH Wolfgang Special_ - I have always been a huge fan of Eddie, but only recently started liking the Wolfgang shape. It's a perfect blend of a Les Paul and super Strat, with a Floyd! The pickups sound amazing, the neck and radius feel perfect for any genre, and it's pretty compact and reliable. The Floyd bridge won't let you change tunings easily, just get another guitar, but at least it has the D-tuna. Can't go wrong, and it's so much fun! 
+_EVH Wolfgang Special_ - I have always been a huge fan of Eddie, but only recently started liking the Wolfgang shape. It's a perfect blend of a Les Paul and super Strat, with a Floyd! The pickups sound amazing, the neck and radius feel perfect for any genre, and it's pretty compact and reliable. The Floyd bridge won't let you change tunings easily, just get another guitar, but at least it has the D-tuna. It looks great in the Ivory finish with the ebony board. Can't go wrong, and it's so much fun! 
 
 _1998 Fender American Deluxe Strat HSS_ was the first "grown up" guitar I got. It has an amazing greenish aqua finish over the Ash body and a maple neck. It's a solid, modern Strat. This one is currently running EMG active pickups. 
 

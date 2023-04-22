@@ -3,7 +3,7 @@ layout: layouts/base.njk
 ---
 
 <main>
-  <header class="pb-12">
+  <header class="mb-12">
     <h1>
       <a href="/" class="text-inherit no-underline">{{ title }}</a>
     </h1>
@@ -12,4 +12,12 @@ layout: layouts/base.njk
     </p>
   </header>
   {{ content | safe }}
+  <footer class="mt-16">
+    <em class="subtle">Last updated:
+      <time>{{ last_modified_at | date('HUMAN_DATE') or date | date('HUMAN_DATE') }}</time>
+    </em>
+    <section>
+      <a href="/">Home</a>
+    </section>
+  </footer>
 </main>
