@@ -1,22 +1,33 @@
 <!DOCTYPE html>
 <html lang="{{ locale or site.x.locale }}" dir="{{ site.x.direction }}">
-    <head>
-        {% comp "head.General" %}
-        {% endcomp %}
-        <!-- Meta -->
+    <head itemtype="http://schema.org/Blog" itemscope>
+        <title>{{ title }} - {{ site.name }}</title>
+        <!-- Tech -->
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/> <!-- Robots -->
+        <!-- Theme --> <link rel="icon" href=""/>
+        <link
+        rel="stylesheet" href="/assets/css/main.css"/> <!-- Meta -->
         <meta name="title" content="{{ title }}"/>
         <meta name="description" content="{{ description }}"/>
         <meta name="keywords" content="{{ tags }}"/>
         <meta name="copyright" content="{{ author.name }}<{{ author.email }}>"/>
         <meta
-        name="author" content="{{ author.name }}<{{ author.email }}>"/> <!-- Open Graph -->
-        <meta property="og:type" content="website"/>
+        name="author" content="{{ author.name }}<{{ author.email }}>"/>
+        <!-- Open Graph -->
+        {% if type === 'post' %}
+            <meta property="og:type" content="article">
+            <meta property="article:tag" content="{{ tags }}">
+            <meta property="article:published_time" content="{{ date | date("ATOM") }}">
+        {% else %}
+            <meta property="og:type" content="blog">
+        {% endif %}
         <meta property="og:title" content="{{ title }}"/>
         <meta property="og:site_name" content="{{ site.name }}"/>
-        <meta property="og:url" content="{{ url }}"/>
+        <meta property="og:url" content="{{ url | url(true) }}"/>
         <meta property="og:description" content="{{ description }}"/>
         <meta property="og:locale" content="{{ site.x.locale }}"/>
-        <title>{{ title }} - {{ site.author.name }}</title>
     </head>
     <body>
         {{ content | safe }}
