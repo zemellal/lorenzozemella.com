@@ -7,6 +7,9 @@
   html {
     @apply bg-stone-100 dark:text-stone-100 dark:bg-stone-900;
   }
+  body {
+    @apply text-lg;
+  }
   main {
     @apply mx-auto max-w-screen-md pt-12 px-6 mb-24 grid grid-cols-1 gap-4;
   }
@@ -17,7 +20,7 @@
     @apply text-4xl;
   }
   h2 {
-    @apply text-xl font-semibold;
+    @apply text-2xl font-bold;
   }
   h3 {
     @apply text-lg;
@@ -34,6 +37,12 @@
 }
 
 @layer components {
+  .footer {
+    @apply mt-16;
+  }
+}
+
+@layer utilities {
   .subtitle {
     @apply text-stone-500 dark:text-stone-400;
   }
