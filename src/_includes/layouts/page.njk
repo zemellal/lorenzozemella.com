@@ -14,7 +14,7 @@ layout: layouts/base.njk
   {{ content | safe }}
   <footer class="mt-16">
     <em class="subtle">Last updated:
-      <time>{{ last_modified_at | date('HUMAN_DATE') }}</time>
+      <time>{{ date | date('HUMAN_DATE') }}</time>
     </em>
     <section>
       <a href="/">Home</a>

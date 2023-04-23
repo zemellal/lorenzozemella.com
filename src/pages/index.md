@@ -4,6 +4,7 @@ url: /
 title: Lorenzo Zemella
 subtitle: Software developer, entrepreneur
 description: Lorenzo Zemella's personal website.
+date: 2023-04-23
 tags: index
 ---
 
@@ -17,7 +18,9 @@ tags: index
 
 <section>
 
-My minimalistic landing page. 
+This is my minimalistic landing page. I am a full-stack developer and co-founder of [Novele]({{links.Novele}}). 
+
+Say hi by emailing [{{author.email}}](mailto:{{author.email}}). You can also find me on [LinkedIn]({{author.x.social.linkedin}}) and [Instagram]({{author.x.social.instagram}}). 
 
 </section><section>
 
@@ -42,11 +45,5 @@ My [uses](/uses/). Other interests and hobbies of mine are [photography](/photog
 <!-- Some useful facts and [references](/references/). Hopefully they are also useful to you.  -->
 
 More coming soon ... 
-
-</section><section>
-
-## Connect
-
-Find me on [LinkedIn]({{author.x.social.linkedin}}). 
 
 </section>

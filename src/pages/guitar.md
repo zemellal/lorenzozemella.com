@@ -3,7 +3,7 @@ url: /guitar/
 title: Guitar
 subtitle: My guitars
 description: Guitars I use and collect
-last_modified_at: 2023-04-21
+date: 2023-04-21
 tags:
     - guitars
     - hobby

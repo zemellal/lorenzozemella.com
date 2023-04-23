@@ -3,14 +3,14 @@ url: /photography/
 title: Photography
 subtitle: My photog gear
 description: Photography gear I use and collect
-last_modified_at: 2023-04-21
+date: 2023-04-21
 tags:
     - photography
     - photo
     - hobby
 ---
 
-Photography equipment I use and have collected over the years. I'm working on self-hosting photo albums, but for now you can see some work on my [Flickr](https://www.flickr.com/people/lzemella/). 
+Photography equipment I use and have collected over the years. I'm working on self-hosting photo albums, but for now you can see some work on my [Instagram]({{author.x.social.instagram}}) and [Flickr](https://www.flickr.com/people/lzemella/). 
 
 <section>
 
