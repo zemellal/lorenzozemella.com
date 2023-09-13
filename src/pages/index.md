@@ -18,7 +18,7 @@ tags: index
 
 <section>
 
-This is my minimalistic landing page. I am a full-stack developer and co-founder of [Novele]({{links.Novele}}). 
+This is my minimalistic landing page. I am a [web developer](/profile/) and co-founder of [Novele]({{links.Novele}}). 
 
 Say hi by emailing [{{author.email}}](mailto:{{author.email}}). You can also find me on [LinkedIn]({{author.x.social.linkedin}}) and [Instagram]({{author.x.social.instagram}}). 
 
