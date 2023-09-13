@@ -1,7 +1,7 @@
 ---
 url: /profile/
 title: Profile
-subtitle: Web Developer, full-stack
+subtitle: Web Developer, Full-Stack
 description: About Lorenzo Zemella, experiences, skills, work
 date: 2023-09-13
 tags:
@@ -15,7 +15,9 @@ tags:
 
 # Lorenzo Zemella
 
-Full stack developer, strength in building highly performant web apps, APIs, and working with Agile teams in startups. Resourceful developer using the latest stacks for high performance and to ship code faster. As CTO of multiple startups, I managed code reviews and led engineering teams. 7+ years of operations and management experience including hiring, budgeting, investor relations, and fundraising. Comfortable wearing multiple hats and working in fast paced environments. 
+I am a full-stack developer with strength in building high performing web apps, APIs, and working with Agile startups teams. Resourceful developer using the latest stacks for increased performance and speed. As CTO of multiple startups, I managed code reviews and led engineering teams of multiple sizes. 
+
+7+ years of operations and management experience including hiring, budgeting, investor relations, and fundraising. Comfortable wearing multiple hats and working in fast paced environments. 
 
 <section>
 
@@ -30,11 +32,13 @@ Full stack developer, strength in building highly performant web apps, APIs, and
 
 </section><section>
 
-## Experience
+## Work Experience
 
-**CTO, web developer, co-founder** at [Novele](https://www.novele.com/)
+**CTO, web developer, co-founder** at [Novele]({{links.Novele}})
 
-**Full-stack developer** at [Apogi Networks](https://www.apogi.io/)
+**CTO, full-stack developer** at [Apogi Networks](https://www.apogi.io/)
+
+**Front end developer** at Incroud
 
 </section><section>
 
