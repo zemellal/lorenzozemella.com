@@ -13,6 +13,7 @@ site.use(
   tailwindcss({
     // extensions: [".html", ".jsx", ".tsx"],
     options: {
+      plugins: ["@tailwindcss/typography"],
       theme: {
         fontFamily: {
           sans: ["Nunito", "sans-serif"],

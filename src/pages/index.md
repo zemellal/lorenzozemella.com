@@ -18,7 +18,7 @@ tags: index
 
 <section>
 
-This is my minimalistic landing page. I am a full-stack developer and co-founder of [Novele]({{links.Novele}}). 
+This is my minimalistic landing page. I am a [web developer](/profile/) and co-founder of [Novele]({{links.Novele}}). 
 
 Say hi by emailing [{{author.email}}](mailto:{{author.email}}). You can also find me on [LinkedIn]({{author.x.social.linkedin}}) and [Instagram]({{author.x.social.instagram}}). 
 
@@ -40,7 +40,7 @@ Say hi by emailing [{{author.email}}](mailto:{{author.email}}). You can also fin
 
 My goal with [this site](/about/) is to keep it timeless and very lightweight. I want to keep it current without putting in too much work, so I simply write content in Markdown, and automatically export the static files and deploy globally. 
 
-My [uses](/uses/). Other interests and hobbies of mine are [photography](/photography/), automobiles, playing [guitar](guitar), watches, and drinking lots of coffee. 
+My [uses](/uses/). Other interests and hobbies of mine are [photography](/photography/), automobiles, playing [guitar](/guitar/), watches, and drinking lots of coffee. 
 
 <!-- Some useful facts and [references](/references/). Hopefully they are also useful to you.  -->
 
