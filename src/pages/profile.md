@@ -3,7 +3,7 @@ url: /profile/
 title: Profile
 subtitle: Web Developer, Full-Stack
 description: About Lorenzo Zemella, experiences, skills, work
-date: 2023-09-13
+date: 2023-09-14
 tags:
     - about
     - profile
@@ -15,9 +15,9 @@ tags:
 
 # Lorenzo Zemella
 
-I am a full-stack developer with strength in building high performing web apps, APIs, and working with Agile startups teams. Resourceful developer using the latest stacks for increased performance and speed. As CTO of multiple startups, I managed code reviews and led engineering teams of multiple sizes. 
+I am a full-stack web developer with strength in building high performing web apps, APIs, and working with Agile teams in startups. Resourceful developer using the latest stacks for increased performance and speed. As CTO of multiple startups, I managed code reviews and led engineering teams of multiple sizes. 
 
-7+ years of operations and management experience including hiring, budgeting, investor relations, and fundraising. Comfortable wearing multiple hats and working in fast paced environments. 
+7+ years of operations and management experience including hiring, budgeting, investor relations, and fundraising. I am comfortable wearing multiple hats and working in fast paced environments. 
 
 <section>
 
