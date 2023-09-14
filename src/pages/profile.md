@@ -23,12 +23,21 @@ I am a full-stack web developer with strength in building high performing web ap
 
 ## Skills
 
-- JavaScript, TypeScript, React, NextJS
+### Front-end
+
+- JavaScript / TypeScript, React, NextJS, SWR
 - CSS, PostCSS, Tailwind
-- NodeJS, Deno
-- Postgres, SQL, NoSQL
-- AWS, GCP, Cloudflare, Vercel, Docker, Github Actions
-- AWS IoT core, MQTT
+
+### Back-end
+
+- NodeJS, Express, Deno
+- Postgres, SQL, NoSQL, FaunaDB
+- Monorepo, Turborepo
+
+### Cloud
+
+- AWS, GCP, Cloudflare, Supabase, Docker, Vercel, Github Actions
+- S3, AWS IoT core, MQTT
 
 </section><section>
 
