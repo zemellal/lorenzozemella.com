@@ -45,7 +45,7 @@ I am a full-stack web developer with strength in building high performing web ap
 
 **CTO, web developer, co-founder** at [Novele]({{links.Novele}})
 
-**CTO, full-stack developer** at [Apogi Networks](https://www.apogi.io/)
+**CTO, full-stack developer** at Apogi Networks
 
 **Front end developer** at Incroud
 
