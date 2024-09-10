@@ -19,8 +19,6 @@ tags:
 
 Dedicated full-stack developer with expertise in building high-performing web applications and APIs for fast-paced startups. Leveraging the latest technologies, I optimize code for speed, efficiency, and cost-effectiveness. As a seasoned entrepreneur and CTO of multiple successful startups, I've developed strong leadership skills, successfully managed code reviews and engineering teams onshore and offshore, and navigated complex operations, including hiring, budgeting, investor relations, and fundraising. Adept at wearing multiple hats and delivering results with minimal resources. Profoundly passionate about applying AI-powered tools to code faster and in daily life.
 
-7+ years of operations and management experience including hiring, budgeting, investor relations, and fundraising. I am comfortable wearing multiple hats and working in fast paced environments.
-
 [Download Resume](/assets/files/Lorenzo%20Zemella%20-%20Resume.pdf)
 | [LinkedIn]({{author.x.social.linkedin}})
 | [GitHub]({{author.x.social.github}})
@@ -47,16 +45,14 @@ Dedicated full-stack developer with expertise in building high-performing web ap
 
 ## Work Experience
 
-**CTO, full-stack, co-founder** at [Novele]({{links.Novele}})
-
-**CTO, full-stack developer** at Apogi Networks
-
-**Frontend developer** at Incroud
+- CTO, full-stack, co-founder at [Novele]({{links.Novele}})
+- CTO, full-stack developer at Apogi Networks
+- Frontend developer at Incroud
 
 </section><section>
 
 ## Education
 
-**BS in Computer Science** from _University of Wisconsin-Madison_
+BS in Computer Science from _University of Wisconsin-Madison_
 
 </section>
