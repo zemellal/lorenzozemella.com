@@ -19,9 +19,7 @@ tags:
 
 Dedicated full-stack developer with expertise in building high-performing web applications and APIs for fast-paced startups. Leveraging the latest technologies, I optimize code for speed, efficiency, and cost-effectiveness. As a seasoned entrepreneur and CTO of multiple successful startups, I've developed strong leadership skills, successfully managed code reviews and engineering teams onshore and offshore, and navigated complex operations, including hiring, budgeting, investor relations, and fundraising. Adept at wearing multiple hats and delivering results with minimal resources. Profoundly passionate about applying AI-powered tools to code faster and in daily life.
 
-[Download Resume](/assets/files/Lorenzo%20Zemella%20-%20Resume.pdf)
-| [LinkedIn]({{author.x.social.linkedin}})
-| [GitHub]({{author.x.social.github}})
+[LinkedIn]({{author.x.social.linkedin}}) | [GitHub]({{author.x.social.github}})
 
 </section>
 <section>
@@ -56,3 +54,5 @@ Dedicated full-stack developer with expertise in building high-performing web ap
 BS in Computer Science from _University of Wisconsin-Madison_
 
 </section>
+
+[Download Resume](/assets/files/Lorenzo%20Zemella%20-%20Resume.pdf)
