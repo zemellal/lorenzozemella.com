@@ -8,7 +8,7 @@ date: 2023-04-23
 tags: index
 ---
 
-<header>
+<header class="mb-2">
 
 <h1><a href="/" class="text-inherit no-underline">{{ author.name }}</a></h1>
 

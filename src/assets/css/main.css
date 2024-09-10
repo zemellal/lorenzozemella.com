@@ -12,16 +12,16 @@
     @apply text-lg;
   }
   main {
-    @apply mx-auto max-w-screen-md pt-12 px-6 mb-24 grid grid-cols-1 gap-4;
+    @apply mx-auto max-w-screen-md pt-12 px-6 mb-16 sm:mb-24 grid grid-cols-1 gap-4;
   }
   section {
     @apply py-4;
   }
   h1 {
-    @apply text-4xl tracking-tight;
+    @apply text-4xl sm:text-5xl font-extrabold tracking-tight;
   }
   h2 {
-    @apply text-2xl font-bold py-2;
+    @apply text-2xl font-extrabold pt-2 pb-4 tracking-wide;
   }
   h3 {
     @apply text-xl font-semibold pt-2 pb-2;
