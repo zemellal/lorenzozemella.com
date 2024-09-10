@@ -16,7 +16,7 @@ site.use(
       plugins: ["@tailwindcss/typography"],
       theme: {
         fontFamily: {
-          sans: ["Nunito", "sans-serif"],
+          sans: ["Nunito Sans", "sans-serif"],
           serif: ["Merriweather", "serif"],
         },
       },
@@ -28,5 +28,6 @@ site.use(date());
 site.use(sitemap());
 
 site.copy("assets/fonts");
+site.copy("assets/files");
 
 export default site;

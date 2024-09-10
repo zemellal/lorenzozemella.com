@@ -1,58 +1,58 @@
 ---
 url: /profile/
-title: Profile
+title: Lorenzo Zemella
 subtitle: Web Developer, Full-Stack
 description: About Lorenzo Zemella, experiences, skills, work
-date: 2023-09-14
+date: 2024-09-10
 tags:
-    - about
-    - profile
-    - work
-    - developer
-    - full-stack
-    - code
+  - about
+  - profile
+  - work
+  - developer
+  - full-stack
+  - code
 ---
 
-# Lorenzo Zemella
+<section>
 
-I am a full-stack web developer with strength in building high performing web apps, APIs, and working with Agile teams in startups. Resourceful developer using the latest stacks for increased performance and speed. As CTO of multiple startups, I managed code reviews and led engineering teams of multiple sizes. 
+## Profile
 
-7+ years of operations and management experience including hiring, budgeting, investor relations, and fundraising. I am comfortable wearing multiple hats and working in fast paced environments. 
+Dedicated full-stack developer with expertise in building high-performing web applications and APIs for fast-paced startups. Leveraging the latest technologies, I optimize code for speed, efficiency, and cost-effectiveness. As a seasoned entrepreneur and CTO of multiple successful startups, I've developed strong leadership skills, successfully managed code reviews and engineering teams onshore and offshore, and navigated complex operations, including hiring, budgeting, investor relations, and fundraising. Adept at wearing multiple hats and delivering results with minimal resources. Profoundly passionate about applying AI-powered tools to code faster and in daily life.
 
+[Download Resume](/assets/files/Lorenzo%20Zemella%20-%20Resume.pdf)
+| [LinkedIn]({{author.x.social.linkedin}})
+| [GitHub]({{author.x.social.github}})
+
+</section>
 <section>
 
 ## Skills
 
-### Front-end
+### Full-stack
 
-- JavaScript / TypeScript, React, NextJS, SWR
-- CSS, PostCSS, Tailwind
-
-### Back-end
-
-- NodeJS, Express, Deno
-- Postgres, SQL, NoSQL, FaunaDB
-- Monorepo, Turborepo
+- JavaScript / TypeScript, React, NextJS
+- TailwindCSS, HeadlessUI, Material, Shadcn/UI
+- Tanstack, React Hook Form, Zod
+- NodeJS, Express, Deno, Cloudflare Pages & Workers
+- Postgres, SQLite, NoSQL, FaunaDB, Prisma
 
 ### Cloud
 
-- AWS, GCP, Cloudflare, Supabase, Docker, Vercel, Github Actions
+- AWS, GCP, Cloudflare, Vercel, Supabase, Docker, Github Actions
 - S3, AWS IoT core, MQTT
 
 </section><section>
 
 ## Work Experience
 
-**CTO, web developer, co-founder** at [Novele]({{links.Novele}})
-
-**CTO, full-stack developer** at Apogi Networks
-
-**Front end developer** at Incroud
+- CTO, full-stack, co-founder at [Novele]({{links.Novele}})
+- CTO, full-stack developer at Apogi Networks
+- Frontend developer at Incroud
 
 </section><section>
 
 ## Education
 
-**BS in Computer Science** from _University of Wisconsin-Madison_
+BS in Computer Science from _University of Wisconsin-Madison_
 
 </section>
