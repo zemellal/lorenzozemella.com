@@ -41,7 +41,7 @@ Say hi by emailing [{{author.email}}](mailto:{{author.email}}). You can also fin
 
 ## About
 
-See my [CV](/profile/), and read more about this [this site](/about/) and my [tech uses](/uses/).
+See my [CV](/profile/), and read more about [this site](/about/) and my [tech uses](/uses/).
 
 When I'm not at the computer, I am either [taking photos](/photography/), admiring automobiles, playing [guitar](/guitar/), traveling in search of amazing food, or drinking lots of espresso!
 
