@@ -3,7 +3,7 @@ url: /photography/
 title: Photography
 subtitle: My photog gear
 description: Photography gear I use and collect
-date: 2024-09-10
+date: 2025-07-01
 tags:
   - photography
   - photo
@@ -16,9 +16,9 @@ Photography equipment I use and have collected over the years. I'm working on se
 
 ## Digital
 
-Nikon digital cameras for now, but I have used and enjoyed Canon and Fuji. If I were shooting professionally, I would probably upgrade to Z8s, and if I wanted something even smaller, I would get a Fuji system. I'm also eyeing a Ricoh GR3.
+Nikon digital cameras, but I have used and enjoyed Canon and Fuji. If I were shooting professionally, I would probably get 2x Z8s, and if I wanted something even smaller, I would get a Fuji system. I'm also eyeing a Ricoh GR3.
 
-_Nikon Z6_ is my main "real" camera when the iPhone doesn't cut it. It's a killer deal used, has 4K30, decent auto focus, and is relatively compact for full-frame.
+_Nikon Z6_ is my main "real" camera when the iPhone doesn't cut it. It's a killer deal used, has 4K30, decent auto focus, and is relatively compact for full-frame. I'm very tempted by the Z5 II though. 
 
 _Nikon D600_ I had 2 of these when I was shooting weddings on the weekends after graduating from school. I kept one because it's worth more keeping it than selling it.
 
