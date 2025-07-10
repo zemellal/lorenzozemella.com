@@ -28,10 +28,9 @@ Dedicated full-stack developer with expertise in building high-performing web ap
 
 ### Full-stack
 
-- JavaScript / TypeScript, React, NextJS
+- JavaScript / TypeScript, React, NextJS, Astro, Vite, Tanstack
 - TailwindCSS, HeadlessUI, Material, Shadcn/UI
-- Tanstack, React Hook Form, Zod
-- NodeJS, Express, Deno, Cloudflare Pages & Workers
+- NodeJS, Express, Deno, Fastify, Hono, Cloudflare Workers
 - Postgres, SQLite, NoSQL, FaunaDB, Prisma
 
 ### Cloud
