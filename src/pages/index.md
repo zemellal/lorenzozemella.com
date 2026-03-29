@@ -5,7 +5,7 @@ description: Lorenzo Zemella's personal website.
 subtitle: Software developer, entrepreneur
 ---
 
-Hi! My name is Lorenzo and I'm a [full-stack developer](/profile/) with expertise in building high-performance web applications for fast-paced startups. I currently work with AI at [Sarj.ai](https://www.sarj.ai/), and have co-founded and served as CTO at an [energy storage startup](https://www.novele.com/) and a web2.5 platform, and worked as a frontend engineer on a social music app.
+Hi! My name is Lorenzo and I'm a [full-stack developer](/profile/) with expertise in building high-performance web applications for fast-paced startups. I currently work with AI at [Sarj.ai](https://www.sarj.ai/), and have co-founded and served as CTO at an [energy storage startup](https://www.novele.com/), and worked as a frontend engineer on a social music app.
 
 Say hi by emailing [hi@lorenzozemella.com](mailto:hi@lorenzozemella.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/lorenzozemella/) and [Instagram](https://www.instagram.com/lorenzozemella/).
 
