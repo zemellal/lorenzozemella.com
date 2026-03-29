@@ -1,0 +1,36 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  lastUpdated?: string;
+  frontmatter?: {
+    title: string;
+    description?: string;
+    lastUpdated?: string;
+  };
+}
+
+const props = Astro.props.frontmatter ?? Astro.props;
+const { title, description, lastUpdated } = props;
+---
+
+<BaseLayout title={title} description={description}>
+  <main>
+    <header class="mb-4">
+      <h1>
+        <a href="/" class="heading-link">{title}</a>
+      </h1>
+    </header>
+    <slot />
+    <footer class="mt-16">
+      {lastUpdated && (
+        <em class="subtle">Last updated: <time>{lastUpdated}</time></em>
+      )}
+      <section>
+        <a href="/">Home</a>
+      </section>
+    </footer>
+  </main>
+</BaseLayout>

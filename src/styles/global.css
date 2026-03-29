@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Geist";
+  src: url("/fonts/Geist-Variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-accent: var(--color-sky-600);
+  --color-accent-muted: var(--color-sky-300);
+  --color-accent-dark: var(--color-sky-400);
+  --color-accent-dark-muted: var(--color-sky-800);
+}
+
+@layer base {
+  html {
+    @apply bg-stone-100 dark:bg-stone-900 dark:text-stone-100;
+    font-family: "Geist", sans-serif;
+    color-scheme: light dark;
+  }
+  body {
+    @apply text-lg;
+  }
+  main {
+    @apply mx-auto max-w-2xl pt-12 px-6 mb-16 sm:mb-24 grid grid-cols-1 gap-4;
+  }
+  section {
+    @apply py-6;
+  }
+  h1 {
+    @apply text-4xl sm:text-5xl font-extrabold tracking-tight;
+  }
+  h2 {
+    @apply text-2xl font-bold pt-2 pb-4 tracking-wide;
+  }
+  h3 {
+    @apply text-xl font-semibold pt-2 pb-2;
+  }
+  p {
+    @apply py-2 leading-relaxed;
+  }
+  a {
+    @apply text-accent dark:text-accent-dark underline decoration-accent-muted dark:decoration-accent-dark-muted hover:decoration-accent dark:hover:decoration-accent-dark transition-colors;
+  }
+  ul {
+    @apply py-2 space-y-2;
+  }
+}
+
+@layer utilities {
+  .subtitle {
+    @apply text-stone-500 dark:text-stone-400;
+  }
+  .subtle {
+    @apply text-stone-400 dark:text-stone-500;
+  }
+  .heading-link {
+    @apply text-inherit no-underline hover:no-underline;
+  }
+}

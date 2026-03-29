@@ -1,0 +1,35 @@
+---
+import '../styles/global.css';
+import { SITE } from '../consts';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = SITE.DESCRIPTION } = Astro.props;
+const fullTitle = `${SITE.NAME} - ${title}`;
+---
+
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta name="description" content={description} />
+    <meta name="author" content={SITE.NAME} />
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:site_name" content={SITE.NAME} />
+    <meta property="og:url" content={`${SITE.URL}${Astro.url.pathname}`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:locale" content="en" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
