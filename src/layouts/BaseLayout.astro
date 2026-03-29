@@ -1,10 +1,10 @@
 ---
-import '../styles/global.css';
-import { SITE } from '../consts';
+import "../styles/global.css";
+import { SITE } from "../consts";
 
 interface Props {
-  title: string;
-  description?: string;
+	title: string;
+	description?: string;
 }
 
 const { title, description = SITE.DESCRIPTION } = Astro.props;
