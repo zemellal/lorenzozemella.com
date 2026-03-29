@@ -1,0 +1,28 @@
+---
+import { SITE } from "../consts";
+import BaseLayout from "./BaseLayout.astro";
+
+interface Props {
+	frontmatter?: {
+		title: string;
+		description?: string;
+		subtitle?: string;
+	};
+	title?: string;
+	description?: string;
+	subtitle?: string;
+}
+
+const props = Astro.props.frontmatter ?? Astro.props;
+const { title, description, subtitle } = props;
+---
+
+<BaseLayout title={title ?? SITE.TITLE} description={description}>
+  <main>
+    <header class="mb-2">
+      <h1><a href="/" class="heading-link">{SITE.NAME}</a></h1>
+      {subtitle && <p class="subtitle">{subtitle}</p>}
+    </header>
+    <slot />
+  </main>
+</BaseLayout>
