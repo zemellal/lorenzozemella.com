@@ -27,9 +27,6 @@
   main {
     @apply mx-auto max-w-2xl pt-12 px-6 mb-16 sm:mb-24 grid grid-cols-1 gap-4;
   }
-  section {
-    @apply py-6;
-  }
   h1 {
     @apply text-4xl sm:text-5xl font-extrabold tracking-tight;
   }
@@ -59,5 +56,8 @@
   }
   .heading-link {
     @apply text-inherit no-underline hover:no-underline;
+  }
+  .block-group {
+    @apply py-6;
   }
 }
