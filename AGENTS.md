@@ -12,5 +12,8 @@ Biome handles both lint and format. `.astro` files have relaxed rules (`useConst
 ## Site constants
 All global metadata (name, URL, description, email) lives in `src/consts.ts` as a typed `SITE` object. Use this instead of hardcoding strings.
 
+## Cloudflare types
+`worker-configuration.d.ts` is generated and checked in. Regenerate with `bun run cf-typegen` after changing `wrangler.jsonc` or `.dev.vars`.
+
 ## No JavaScript
 The site intentionally ships zero client-side JS. No dynamic components, no navigation bar. Keep it that way unless explicitly asked to add interactivity.
