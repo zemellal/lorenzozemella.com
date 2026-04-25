@@ -1,11 +1,11 @@
 ---
 layout: ../layouts/HomeLayout.astro
-title: Full-Stack Engineer | CTO | Co-founder
+title: Engineer & Builder | CTO | Co-founder
 description: Lorenzo Zemella's personal website.
-subtitle: Software developer, entrepreneur
+subtitle: Engineer, entrepreneur, builder
 ---
 
-Hi! My name is Lorenzo and I'm a [full-stack developer](/profile/) with expertise in building high-performance web applications for fast-paced startups. I currently work with AI at [Sarj.ai](https://www.sarj.ai/), and have co-founded and served as CTO at an [energy storage startup](https://www.novele.com/), and worked as a frontend engineer on a social music app.
+Hi! My name is Lorenzo and I'm an [engineer and builder](/profile/) who moves from customer problem to production fast. I currently ship AI products at [Sarj.ai](https://www.sarj.ai/) — working across engineering, infrastructure, and compliance for enterprise fintech in Saudi Arabia. I've also co-founded and served as CTO at [Novele](https://www.novele.com/), a battery IoT startup backed by Techstars and Bjarke Ingels Group.
 
 Say hi by emailing [hi@lorenzozemella.com](mailto:hi@lorenzozemella.com). You can also find me on [LinkedIn](https://www.linkedin.com/in/lorenzozemella/) and [Instagram](https://www.instagram.com/lorenzozemella/).
 
