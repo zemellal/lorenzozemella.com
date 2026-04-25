@@ -11,7 +11,7 @@ lastUpdated: April 25, 2026
 
 I build working products, not decks. As an engineer and entrepreneur, I move from customer problem to production in days — using AI-native tools, reusable components, or starting from scratch when needed. I've done this across early-stage startups and enterprise fintech in Saudi Arabia.
 
-At Sarj.ai, I lead engineering for a core product deployed with a major Saudi e-bank, managing infrastructure, security, and compliance (SAMA, SOC2, ISO27001) while also shipping demos within days when talking to new clients. I don't wait for specs — I make decisions, iterate fast, and course-correct from real feedback.
+At Sarj.ai, I lead engineering for a core product deployed with a major Saudi e-bank, managing infrastructure, security, and compliance (SAMA, SOC2, ISO27001) while shipping working demos in days — sometimes hours — when a new client conversation calls for it. I don't wait for specs — I make decisions, iterate fast, and course-correct from real feedback.
 
 At Novele, I spent 9 years as CTO and co-founder of a battery IoT company backed by Techstars and Bjarke Ingels Group — recruiting engineers, managing investor relations, and raising capital while also being the one shipping code. I bridged software with hardware, power electronics, mechanical design, and academic R&D.
 
