@@ -12,6 +12,9 @@ Biome handles both lint and format. `.astro` files have relaxed rules (`useConst
 ## Site constants
 All global metadata (name, URL, description, email) lives in `src/consts.ts` as a typed `SITE` object. Use this instead of hardcoding strings.
 
+## Deployment
+The site deploys via **Cloudflare Workers** (not Pages). Static assets are served through Workers Assets, which distributes them across Cloudflare's edge — effectively CDN behavior. Do not give Cloudflare Pages-specific advice.
+
 ## Cloudflare types
 `worker-configuration.d.ts` is generated and checked in. Regenerate with `bun run cf-typegen` after changing `wrangler.jsonc` or `.dev.vars`.
 
