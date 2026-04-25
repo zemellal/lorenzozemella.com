@@ -2,7 +2,7 @@
 layout: ../layouts/PageLayout.astro
 title: Site
 description: About this website
-lastUpdated: April 21, 2023
+lastUpdated: March 29, 2026
 ---
 
 The goal is to keep it timeless and very lightweight. No navigation bar, no JavaScript, only HTML and minimal CSS with [Tailwind CSS](https://tailwindcss.com/) classes. Just click the title to go back to the home page. The sans-serif font is [Geist](https://fonts.google.com/specimen/Geist).
