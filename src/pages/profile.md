@@ -15,7 +15,7 @@ At Sarj.ai, I lead engineering for a core product deployed with a major Saudi e-
 
 At Novele, I spent 9 years as CTO and co-founder of a battery IoT company backed by Techstars and Bjarke Ingels Group — recruiting engineers, managing investor relations, and raising capital while also being the one shipping code. I bridged software with hardware, power electronics, mechanical design, and academic R&D.
 
-I'm based in Riyadh.
+Riyadh-based, but American-built — most of my career and education happened in the US.
 
 [LinkedIn](https://www.linkedin.com/in/lorenzozemella/) | [GitHub](https://github.com/zemellal) | [Resume PDF](/assets/files/Lorenzo%20Zemella%20-%20Resume.pdf)
 
