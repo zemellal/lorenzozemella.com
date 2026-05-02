@@ -1,5 +1,8 @@
 # Agent Notes
 
+## Writing style
+Avoid em dashes (—). Use commas, periods, or semicolons instead.
+
 ## Package manager
 Use **Bun** — `bun install`, `bun dev`, `bunx`. Never use npm or npx.
 
