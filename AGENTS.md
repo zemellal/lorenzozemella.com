@@ -23,5 +23,5 @@ A server-rendered variant with Astro route caching (@astrojs/cloudflare adapter,
 ## Cloudflare types
 `worker-configuration.d.ts` is generated and checked in. Regenerate with `bun run cf-typegen` after changing `wrangler.jsonc` or `.dev.vars`.
 
-## No JavaScript
-The site intentionally ships zero client-side JS. No dynamic components, no navigation bar. Keep it that way unless explicitly asked to add interactivity.
+## Minimal JavaScript
+Pages are plain server-built HTML with no dynamic components and no navigation bar. The only client-side JS allowed is Astro's prefetch/prerender script for instant navigation (progressive enhancement; the site must remain fully functional without JS). Do not add interactive components unless explicitly asked.
