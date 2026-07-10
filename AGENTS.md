@@ -16,11 +16,9 @@ Biome handles both lint and format. `.astro` files have relaxed rules (`useConst
 All global metadata (name, URL, description, email) lives in `src/consts.ts` as a typed `SITE` object. Use this instead of hardcoding strings.
 
 ## Deployment
-The site deploys via **Cloudflare Workers** (not Pages) using the `@astrojs/cloudflare` adapter with `output: "server"`. Do not give Cloudflare Pages-specific advice.
+The site deploys via **Cloudflare Workers** (not Pages) as a fully static build served through Workers Assets, which edge-caches assets automatically. Do not give Cloudflare Pages-specific advice. `public/_headers` sets immutable caching for hashed `/_astro/*` assets; keep it if the build setup changes.
 
-Pages are server-rendered and edge-cached via Astro route caching, configured in `astro.config.mjs`. The Workers Cache key includes the Worker version, so each deploy starts a cold cache; no purging needed. Sessions and Cloudflare Images are intentionally disabled there; do not re-enable without need.
-
-Keep `wrangler.jsonc` minimal. The build generates the full deploy config (adapter merges in `main`, the `ASSETS` binding, `cache.enabled`) and `wrangler deploy` picks it up automatically.
+A server-rendered variant with Astro route caching (@astrojs/cloudflare adapter, Workers Cache) exists in git history; restore it from there if server-side routes are ever needed instead of rebuilding from scratch.
 
 ## Cloudflare types
 `worker-configuration.d.ts` is generated and checked in. Regenerate with `bun run cf-typegen` after changing `wrangler.jsonc` or `.dev.vars`.
