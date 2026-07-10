@@ -16,17 +16,15 @@
 		"check": "biome check --write ."
 	},
 	"dependencies": {
-		"@tailwindcss/vite": "^4.3.0",
-		"astro": "^6.3.7",
-		"geist": "^1.7.1",
-		"tailwindcss": "^4.3.0",
-		"wrangler": "^4.94.0"
-	},
-	"overrides": {
-		"vite": "^7"
+		"@astrojs/cloudflare": "^14.1.2",
+		"@tailwindcss/vite": "^4.3.2",
+		"astro": "^7",
+		"geist": "^1.7.2",
+		"tailwindcss": "^4.3.2",
+		"wrangler": "^4.110.0"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.4.15",
-		"lefthook": "^2.1.8"
+		"@biomejs/biome": "^2.5.3",
+		"lefthook": "^2.1.10"
 	}
 }
